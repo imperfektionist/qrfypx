@@ -6,7 +6,8 @@ February 3rd, 2025 - Anton Hoyer
 Rfypx, pronounced “qurify pix,” is a Python tool freely available to everyone on GitHub.
 If you want to run it on Windows, you can simply download the release version.
 In case of Mac or Linux, or if you want to take a closer look at the code, you can download
-the Python script but may need to install additional modules.
+the Python script but may need to install additional modules:
+`os, numpy, random, itertools, tkinter, PIL, qrcode, concurrent.futures, multiprocessing`
 
 The tool accepts an input image and a URL, combines them, and lets you mess around with
 different patterns and brightness settings to find the ideal balance between aesthetics
