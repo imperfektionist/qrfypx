@@ -3,7 +3,7 @@ February 3rd, 2025 - Anton Hoyer
 
 ## Summary
 
-Rfypx, pronounced “qurify pix,” is a Python tool freely available to everyone on GitHub.
+QRfypx, pronounced “qurify pix,” is a Python tool freely available to everyone on GitHub.
 If you want to run it on Windows, you can simply download the release version.
 In case of Mac or Linux, or if you want to take a closer look at the code, you can download
 the Python script but may need to install additional modules:
